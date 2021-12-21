@@ -48,3 +48,12 @@ from test import add,var,Show
 
 
 from packagename.modulename  import function,variable
+
+***********************************************************************************************************
+Example
+***********************************************************************************************************
+Create Virtual Environment on Command Prompt
+C:\Users\kisan\Desktop\VirtualEnv>python -m venv VirtalEnv1
+C:\Users\kisan\Desktop\VirtualEnv>cd VirtalEnv1
+C:\Users\kisan\Desktop\VirtualEnv\VirtalEnv1>.\Scripts\activate
+(VirtalEnv1) C:\Users\kisan\Desktop\VirtualEnv\VirtalEnv1>
